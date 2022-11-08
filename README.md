@@ -1,6 +1,6 @@
 ### Hi, I'm Wai Han Ko 👋
 
-I love to contribute to open source projects. I also write about software engineering, learning, and career **to help readers.
+I love to contribute to open source projects.
 
 <img align="right" alt="GIF" height="300px" width="300px" src="./assets/skr-sig.gif" />
 
